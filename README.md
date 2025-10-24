@@ -1,5 +1,10 @@
 # My Python Learning Repo
 
+# Python Learning (GitHub)
+
+[![License: Custom Non-Commercial](https://img.shields.io/badge/License-Non--Commercial-blue.svg)](./LICENSE)
+
+
 This repository is part of my Python learning journey using Replit and a free YouTube course.
 
 ## 🧰 What’s inside
