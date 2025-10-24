@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+.Python
+build/
+dist/
+*.so
+
+# Replit
+.replit
+replit.nix
+.replit_cache/
+.repl_history
+*.replit-run
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+.idea/
+.vscode/
