@@ -11,3 +11,14 @@ LANG = "en_US.UTF-8"
 
 [agent]
 expertMode = true
+
+[workflows]
+
+[[workflows.workflow]]
+name = "RUN COFFEE SHOP"
+mode = "sequential"
+author = 48972883
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python3 coffee-shop.py"
