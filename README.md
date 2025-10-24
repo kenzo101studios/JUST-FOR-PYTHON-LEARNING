@@ -13,4 +13,4 @@ This repository is part of my Python learning journey using Replit and a free Yo
 You can run these scripts directly on [Replit](https://replit.com/) or locally with Python 3:
 
 ```bash
-python3 myscript.py
+python3 (script).py
