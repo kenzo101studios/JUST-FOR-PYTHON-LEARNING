@@ -19,3 +19,15 @@ You can run these scripts directly on [Replit](https://replit.com/) or locally w
 
 ```bash
 python3 (script).py
+```
+
+---
+
+## 📜 License
+
+This project is licensed under a **Custom Non-Commercial License** — see the [LICENSE](./LICENSE) file for full details.
+
+**Summary:**
+- ✅ Free to use, modify, and share for personal or educational purposes  
+- ❌ Commercial use is *not* allowed without written permission  
+- 🖋️ Credit to **Kenzo101** is required in any public or modified versions
